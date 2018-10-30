@@ -1,0 +1,12 @@
+.TodoItem {
+    padding: 4px;
+    list-style-type: none;
+}
+
+.TodoItem div input {
+    display: inline-block;
+}
+
+.TodoItem div {
+    display: inline-block;
+}
